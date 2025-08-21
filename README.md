@@ -27,7 +27,7 @@ To better illustrate the findings, the following charts were created.
 
 ### Monthly Sales Trend
 
-![Monthly Sales Trend](https://i.imgur.com/example_monthly_sales_chart.png)
+![Monthly Sales Trend]([https://i.imgur.com/example_monthly_sales_chart.png]([https://github.com/kandorov-gif/data-analytics-portfolio/blob/fedfd0ae04f30e26db4c430cade81add6b06c5f0/Monthly_Sales_Trend.pn](https://github.com/kandorov-gif/data-analytics-portfolio/blob/fedfd0ae04f30e26db4c430cade81add6b06c5f0/Monthly_Sales_Trend.png))
 
 ### Top 10 Countries by Revenue
 
@@ -35,7 +35,7 @@ To better illustrate the findings, the following charts were created.
 
 ### Top 10 Most Popular Products
 
-![Top 10 Most Popular Products](https://i.imgur.com/example_top_products_chart.png)
+![Top 10 Most Popular Products]([https://i.imgur.com/example_top_products_chart.png](https://github.com/kandorov-gif/data-analytics-portfolio/blob/fedfd0ae04f30e26db4c430cade81add6b06c5f0/Top_10_Most_Popular_Products.png))
 
 ## Code and Access
 
