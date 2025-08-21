@@ -31,7 +31,7 @@ To better illustrate the findings, the following charts were created.
 
 ### Top 10 Countries by Revenue
 
-![Top 10 Countries by Revenue](https://i.imgur.com/example_country_revenue_chart.png)
+![Top 10 Countries by Revenue]([https://i.imgur.com/example_country_revenue_chart.png](https://github.com/kandorov-gif/data-analytics-portfolio/blob/main/Total_Revenue_by_Country.png))
 
 ### Top 10 Most Popular Products
 
